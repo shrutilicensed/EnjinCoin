@@ -19,6 +19,14 @@ body {
   --bs-card-bg: #1f1a37;
 }
 
-.h3 {
+.text-center {
   text-align: center;
+}
+
+.justify-center {
+  justify-self: center;
+}
+
+.special-numbers {
+  font-weight: 700;
 }
