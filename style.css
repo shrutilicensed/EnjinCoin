@@ -30,3 +30,17 @@ body {
 .special-numbers {
   font-weight: 700;
 }
+
+.relative {
+  position: relative;
+}
+
+.absolute {
+  position: absolute;
+  top: 100px;
+}
+
+.absolute-para {
+  position: absolute;
+  top: 180px;
+}
