@@ -1,0 +1,24 @@
+body {
+  background-color: rgba(6, 1, 33, 255);
+  color: white;
+}
+
+.nav-link,
+.navbar-nav .nav-link.active,
+.hero,
+.navbar-brand,
+.h3 {
+  color: white;
+}
+
+.card-text {
+  color: white;
+}
+
+.card {
+  --bs-card-bg: #1f1a37;
+}
+
+.h3 {
+  text-align: center;
+}
